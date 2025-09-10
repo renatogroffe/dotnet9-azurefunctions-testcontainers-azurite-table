@@ -1,6 +1,5 @@
 using Bogus.DataSets;
 using FunctionAppContatos.Data;
-using Google.Protobuf.WellKnownTypes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
